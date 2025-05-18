@@ -1,0 +1,465 @@
+{
+    "isRightToLeft": false,
+    "localizedList": [
+        {
+            "id": 1,
+            "code": "choice_fight",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Fight"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "code": "menu_game",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Loup solitaire"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "code": "menu_new_game",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Nouvelle Partie"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "code": "menu_load_game",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Charger la partie sauvegardée"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "code": "menu_options",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Options"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "code": "menu_exit",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Quitter"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "code": "menu_options_language",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Langue"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "code": "d1_s1",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Il faut vous hâter, car quelque chose vous dit qu'il serait \rimprudent de vous attarder parmi les ruines fumantes du \rmonastère détruit."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "code": "d1_s2",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Les monstres volants peuvent, en effet, reparaître à tout moment."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "code": "d1_s3",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Il n'y a d'ailleurs pas de temps à perdre : vous devez au plus vite prendre la route de Holmgard, la capitale du Sommerlund, pour aller annoncer au Roi cette terrible nouvelle : les Guerriers Kaï, l'élite du pays, ont tous été massacrés, à l'exception de vous-même."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "code": "d1_s4",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Or sans l'autorité et le savoir des Seigneurs Kaï pour commander l'armée, le royaume du Sommerlund se trouve à la merci de ses plus anciens ennemis: les Maîtres des Ténèbres."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "code": "i_s11",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Depuis ce temps, les Maîtres des Ténèbres ont juré de prendre leur revanche sur le royaume du Sommerlund et la Maison d'Ulnar."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "code": "i_s08",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Ce fut une longue et douloureuse épreuve de force à l'issue de laquelle les guerriers du Sommerlund remportèrent la victoire lors de la grande bataille de Maaken."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "code": "i_s07",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Au temps jadis, à l'époque de la Lune Noire, les Maîtres des Ténèbres menèrent une guerre sans merci contre le royaume du Sommerlund."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "code": "i_s06",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Profondément attachés à leur patrie, ils seront ainsi prêts à la défendre contre le danger constant qui la menace : la soif de conquête des Maîtres des Ténèbres venus de l'ouest."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "code": "i_s05",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Ils leur témoignent au contraire amour et respect, sachant très bien qu'ils quitteront un jour le monastère en possédant tous les secrets de la tradition Kaï: ils pourront alors rentrer chez eux, l'esprit et le corps formés aux techniques de la guerre."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "code": "i_s04",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Pour transmettre leurs connaissances, ils doivent faire subir à leurs disciples de rudes épreuves au cours de leur apprentissage, mais ces derniers ne s'en plaignent jamais."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "code": "i_s03",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Les Moines Kaï sont de grands maîtres dans l'art qu'ils enseignent."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "code": "i_s02",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "C'est là qu'on leur enseigne l'art et la science de leurs nobles ancêtres."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "code": "i_s01",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Au nord du royaume du Sommerlund, il est de tradition depuis des siècles d'envoyer les fils des Seigneurs de la Guerre au monastère Kaï."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "code": "i_s10",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Vashna, le plus puissant parmi les Maîtres des Ténèbres, périt d'un coup mortel que le roi Ulnar lui porta de sa puissante épée, l'Epée du Soleil, que l'on désigne généralement sous le nom de «Glaive de Sommer»."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "code": "i_s09",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Le roi Ulnar et ses alliés de Durenor anéantirent l'armée des Maîtres des Ténèbres dans le défilé de Moytura et précipitèrent l'ennemi au fond de la gorge de Maaken."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "code": "i_s12",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Lorsque l'aube se lève sur le premier jour de votre aventure, tous les Seigneurs Kaï sont présents au monastère : on doit, en effet, célébrer aujourd'hui même la grande fête de Fehmarn et l'on se prépare tôt le matin aux réjouissances."
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "code": "i_s13",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Mais soudain, un immense nuage noir s'élève au ciel d'occident: d'énormes créatures aux ailes sombres emplissent les nues en si grand nombre que le soleil semble s'éteindre."
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "code": "i_s14",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Cette invasion porte la marque des Maîtres des Ténèbres."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "code": "i_s15",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Les ennemis jurés du Royaume du Sommerlund passent une nouvelle fois à l'attaque : la guerre a recommencé."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "code": "i_s16",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "En ce matin fatal, Loup Silencieux (c'est le nom qui vous a été donné par les Moines Kaï) est allé chercher du bois dans la forêt : c'est la corvée qu'on vous a assignée pour vous punir de votre inattention en classe."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "code": "i_s17",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Or, sur le chemin du retour, vous apercevez tout à coup ce gigantesque nuage de créatures noires qui fond sur le monastère et semble l'engloutir aussitôt."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "code": "i_s18",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Vous laissez tomber votre bois à terre et vous vous précipitez sur le lieu de la bataille."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "code": "i_s19",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Mais les monstres noirs ont obscurci le soleil et il fait à présent si sombre que vous trébuchez contre une racine en tombant tête la première."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "code": "i_s20",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Dans votre chute, vous heurtez violemment du front une branche basse qui vous assomme."
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "code": "i_s21",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Une fraction de seconde avant de perdre connaissance, vous avez cependant le temps de saisir du regard un terrifiant spectacle: les murs du monastère Kaï sont en train de s'écrouler sur eux-mêmes dans un fracas de tonnerre."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "code": "i_s22",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Vous ne reprenez conscience qu'au bout de plusieurs heures et, les larmes aux yeux, vous contemplez avec horreur le tas de ruines que l'ennemi a laissé derrière lui."
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "code": "i_s23",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Les Guerriers Kaï ont été ensevelis sous les décombres et il ne reste plus aucun survivant parmi vos compagnons."
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "code": "i_s24",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Avec une infinie douleur, vous levez alors votre visage vers le ciel, à nouveau clair, et vous faites le serment de venger la mort des Moines et des Seigneurs Kaï."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "code": "i_s25",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Vous ferez payer leur crime aux Maîtres des Ténèbres !"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "code": "i_s26",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Votre tâche d'ailleurs commence à l'instant même : il vous faut, en effet, gagner la capitale du royaume pour prévenir le Roi en personne de l'effroyable péril qui menace le pays ; car maintenant, l'ennemi est en marche, et si vous n'agissez pas à temps, votre patrie tombera sous son joug."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "code": "i_s27",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Vous êtes le dernier des Seigneurs Kaï et le sort de votre peuple repose désormais entre vos seules mains: le Loup Silencieux est devenu Loup Solitaire et les envahisseurs feront tout pour vous empêcher d'atteindre le Palais du Roi..."
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "code": "adventure_sheet_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "FEUILLE D'AVENTURE"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "code": "adventure_sheet_kai_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "DISCIPLINE KAI"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "code": "adventure_sheet_weapons_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "ARMES"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "code": "adventure_sheet_backpack_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "SAC A DOS"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "code": "adventure_sheet_objects_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "OBJETS"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "code": "adventure_sheet_meal_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "REPAS"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "code": "adventure_sheet_special_objectsl_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "OBJETS SPECIAUX"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "code": "adventure_sheet_gold_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "OR"
+                }
+            ]
+        }
+    ]
+}

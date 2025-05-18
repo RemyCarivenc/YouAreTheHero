@@ -1,0 +1,465 @@
+{
+    "isRightToLeft": false,
+    "localizedList": [
+        {
+            "id": 1,
+            "code": "choice_fight",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Fight"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "code": "menu_game",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Lone wolf"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "code": "menu_new_game",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "New Game"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "code": "menu_load_game",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Load saved game"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "code": "menu_options",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Options"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "code": "menu_exit",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Exit"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "code": "menu_options_language",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "Language"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "code": "d1_s1",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "You must hurry, because something tells you that it would be\r unwise to linger among the smoldering ruins of\r monastery destroyed."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "code": "d1_s2",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "code": "d1_s3",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "code": "d1_s4",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "code": "i_s11",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "code": "i_s08",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "code": "i_s07",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "code": "i_s06",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "code": "i_s05",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "code": "i_s04",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "code": "i_s03",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "code": "i_s02",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "code": "i_s01",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "code": "i_s10",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "code": "i_s09",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "code": "i_s12",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "code": "i_s13",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "code": "i_s14",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "code": "i_s15",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "code": "i_s16",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "code": "i_s17",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "code": "i_s18",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "code": "i_s19",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "code": "i_s20",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "code": "i_s21",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "code": "i_s22",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "code": "i_s23",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "code": "i_s24",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "code": "i_s25",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "code": "i_s26",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "code": "i_s27",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "code": "adventure_sheet_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "code": "adventure_sheet_kai_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "KAI DISCIPLINE"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "code": "adventure_sheet_weapons_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "WEAPONS"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "code": "adventure_sheet_backpack_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "BACKPACK"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "code": "adventure_sheet_objects_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "OBJECTS"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "code": "adventure_sheet_meal_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "MEAL"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "code": "adventure_sheet_special_objectsl_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "SPECIAL OBJECTS"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "code": "adventure_sheet_gold_title",
+            "localizedDataHolder": [
+                {
+                    "type": 0,
+                    "value": "GOLD"
+                }
+            ]
+        }
+    ]
+}
