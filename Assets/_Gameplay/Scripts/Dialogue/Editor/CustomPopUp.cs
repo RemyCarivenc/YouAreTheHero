@@ -1,16 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using Localization;
-using Localization.Core;
 using UnityEditor;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UIElements;
 
 public class CustomPopUp : EditorWindow
 {
     [SerializeField]
-    private LanguageAuto Sentence;
+    private LocalizedString Sentence;
 
     private static DialogueNode dialogueNode;
     private static Label label;
@@ -34,13 +33,13 @@ public class CustomPopUp : EditorWindow
         EditorGUILayout.PropertyField(so.FindProperty("Sentence"));
         so.ApplyModifiedProperties();
 
-        if (GUILayout.Button("Validate!"))
+       /* if (GUILayout.Button("Validate!"))
         {
             label.text = LanguageCodeUtility.GetName(Sentence.Code);
             port.portName = Sentence.Code.ToString();
             
             this.Close();
-        }
+        }*/
         if (GUILayout.Button("Cancel!"))
         {
             this.Close();

@@ -7,7 +7,6 @@ using UnityEditor.Experimental.GraphView;
 using UnityEditor.UIElements;
 using UnityEngine;
 using UnityEngine.UIElements;
-using Localization.Core;
 
 public class DialogueGraphView : GraphView
 {
@@ -87,7 +86,7 @@ public class DialogueGraphView : GraphView
         AddElement(CreateDialogueNode(_nodeName, _position, new List<Sentences>()));
     }
 
-    public DialogueNode CreateDialogueNode(string _nodeName, Vector2 _position,List<Sentences> _sentences)
+    public DialogueNode CreateDialogueNode(string _nodeName, Vector2 _position, List<Sentences> _sentences)
     {
         var tempDialogueNode = new DialogueNode
         {
@@ -145,36 +144,36 @@ public class DialogueGraphView : GraphView
         return tempDialogueNode;
     }
 
-   /* private FieldInfo GetFieldViaPath(Type type, string path)
-    {
-        var flags = BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance;
-        var containingObjectType = type;
-        FieldInfo fi = null;
-        var paths = path.Split('.');
+    /* private FieldInfo GetFieldViaPath(Type type, string path)
+     {
+         var flags = BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance;
+         var containingObjectType = type;
+         FieldInfo fi = null;
+         var paths = path.Split('.');
 
 
-        for (int i = 0; i < paths.Length; i++)
-        {
-            fi = containingObjectType.GetField(paths[i], flags);
-            if (fi != null)
-            {
-                // there are only two container field type that can be serialized:
-                // Array and List<T>
-                if (fi.FieldType.IsArray)
-                    containingObjectType = fi.FieldType.GetElementType();
-                else if (fi.FieldType.IsGenericType)
-                    containingObjectType = fi.FieldType.GetGenericArguments()[0];
-                else
-                    containingObjectType = fi.FieldType;
-            }
-            else
-            {
-                break;
-            }
+         for (int i = 0; i < paths.Length; i++)
+         {
+             fi = containingObjectType.GetField(paths[i], flags);
+             if (fi != null)
+             {
+                 // there are only two container field type that can be serialized:
+                 // Array and List<T>
+                 if (fi.FieldType.IsArray)
+                     containingObjectType = fi.FieldType.GetElementType();
+                 else if (fi.FieldType.IsGenericType)
+                     containingObjectType = fi.FieldType.GetGenericArguments()[0];
+                 else
+                     containingObjectType = fi.FieldType;
+             }
+             else
+             {
+                 break;
+             }
 
-        }
-        return fi;
-    }*/
+         }
+         return fi;
+     }*/
 
     private void GenerateSentences(DialogueNode _dialogueNode, IntegerField _integer)
     {
@@ -239,7 +238,7 @@ public class DialogueGraphView : GraphView
 
         Label label = new Label()
         {
-            text = LanguageCodeUtility.GetName(outputPortName)
+            text = "" //LanguageCodeUtility.GetName(outputPortName)
 
         };
         generatedPort.contentContainer.Add(label);

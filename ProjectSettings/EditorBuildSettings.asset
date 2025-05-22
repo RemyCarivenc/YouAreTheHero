@@ -17,9 +17,10 @@ EditorBuildSettings:
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: f857156f29d32e04aa60dcd9fbe02e8a,
       type: 2}
-    com.unity.addressableassets: {fileID: 11400000, guid: 01025f81265a4ce439ca3c07d70dab25,
+    com.unity.addressableassets: {fileID: 11400000, guid: 27e1bb1e7ebb5ea4da2e003fd08eb945,
       type: 2}
-    com.unity.localization.settings: {fileID: 11400000, guid: 6e86e7cee15cb834e8914c7d9ebce36d,
+    com.unity.localization.settings: {fileID: 11400000, guid: 2cf7a6aa02b34614daac51e9828e0235,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6e6450b98c6a3754ca6d7b1b314d4674,
       type: 2}
+  m_UseUCBPForAssetBundles: 0

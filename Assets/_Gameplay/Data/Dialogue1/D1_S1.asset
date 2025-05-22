@@ -12,6 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b959b9d24b091b844b789e36efd1aa17, type: 3}
   m_Name: D1_S1
   m_EditorClassIdentifier: 
+  imageBackground: {fileID: 0}
   imagePNJ: {fileID: 0}
   sentence:
-    code: 8
+    m_TableReference:
+      m_TableCollectionName: GUID:608a21255401a5547ad0f2c26ac6851e
+    m_TableEntryReference:
+      m_KeyId: 6071501889536
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
